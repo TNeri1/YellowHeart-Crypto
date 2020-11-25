@@ -9,3 +9,7 @@
 
 * Dapp University Tutorial
 * YouTube: Ethereum
+
+### Info
+
+* This code was based off of a tutorial that was used for learning purposes. This was pushed to GitHub to showcase what I learned.
